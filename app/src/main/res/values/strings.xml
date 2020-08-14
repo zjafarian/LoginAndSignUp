@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">LoginAndSignUp</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_log_in">Log in</string>
+    <string name="btn_sign_up">Sign up</string>
+    <string name="userText"></string>
+    <string name="passwordText"></string>
+    <string name="userTextSignUp"></string>
+    <string name="passwordSignUp"></string>
+    <string name="empty"></string>
+    <string name="successful_message">LogIn was successful</string>
+    <string name="non_successful_message">user or password is incorrect</string>
+    <string name="message_signup">Please username and password</string>
+    <string name="message_not_sign_up">you not sign up</string>
+    <string name="message_find_false">you can not input and password correct</string>
+
+    </resources>
